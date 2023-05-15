@@ -120,11 +120,11 @@ font-style: normal;
 margin-left: 332px;
 display: flex;
 align-items: center;
-gap: 40px;
 }
 
 .contacts-list {
 display: flex;
+gap: 40px;
 }
 
 .contacts-item-link:hover,
